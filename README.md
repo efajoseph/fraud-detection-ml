@@ -93,3 +93,17 @@ This project demonstrates how different modelling strategies impact that trade-o
 
 MSc Artificial Intelligence & Data Science  
 Open to Data Analyst / Data Scientist opportunities in the UK
+
+## How to Run
+
+1. Clone the repository:
+   git clone https://github.com/your-username/fraud-detection-ml.git
+
+2. Navigate into the project folder:
+   cd fraud-detection-ml
+
+3. Install dependencies:
+   pip install -r requirements.txt
+
+4. Open the notebook:
+   jupyter notebook notebooks/eda.ipynb
