@@ -97,7 +97,7 @@ Open to Data Analyst / Data Scientist opportunities in the UK
 ## How to Run
 
 1. Clone the repository:
-   git clone https://github.com/your-username/fraud-detection-ml.git
+   git clone https://github.com/efajoseph/fraud-detection-ml.git
 
 2. Navigate into the project folder:
    cd fraud-detection-ml
